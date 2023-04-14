@@ -1,4 +1,4 @@
-# Portfolio
+# Portfolio (EN)
 
 ### My Portfolio for Employer and Training
 _Hi! My name is __Dmitry__ and this is my portfolio, in which I present my projects, programs, scripts, websites and applications that I have created. In the portfolio you will find projects executed in different programming languages, using various tools and frameworks._
@@ -21,7 +21,7 @@ My contacts:
 Telegram - @citayto  
 E-mail - art.ves.work@gmail.com
 
-# Портфолио
+# Портфолио (RU)
 
 ### Моё портфолио для работодателя и обучения
 _Привет! Меня зовут __Дмитрий__ и это моё портфолио, в котором я представляю свои проекты, программы, скрипты, сайты и приложения, которые я создавал. В портфолио вы найдёте проекты, выполненные на разных языках программирования, с использованием различных инструментов и фреймворков._

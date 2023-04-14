@@ -11,7 +11,7 @@ _Привет! Меня зовут __Дмитрий__ и это моё порт�
 - **Apps**: папка с моими функциональными приложениями, готовыми для использования
 
 ## Резюме
-Если вы ищете общее представление о моём опыте и навыках, можете посмотреть моё [резюме](./Resume.md).
+Если вы ищете общее представление о моём опыте и навыках, можете посмотреть моё [резюме](./resume(ru).md).
 
 ## Детали
 Более подробную информацию о каждом проекте, программе, скрипте, сайте и приложении вы найдёте в соответствующих папках. В них вы найдёте описание, используемые языки программирования, инструменты и технологии. 
@@ -34,7 +34,7 @@ _Hi! My name is __Dmitry__ and this is my portfolio, in which I present my proje
 - **Apps**: A folder with my functional applications ready for use
 
 ## Summary
-If you are looking for a general idea of my experience and skills, you can see my [resume](./Resume.md ).
+If you are looking for a general idea of my experience and skills, you can see my [resume](./resume(en).md ).
 
 ## Details
 More detailed information about each project, program, script, website and application can be found in the corresponding folders. In them you will find a description of the programming languages used, tools and technologies. 
